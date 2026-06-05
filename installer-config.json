@@ -1,0 +1,11 @@
+{
+    "assemblyName": "ListenincConverters",
+    "converterClass": "Virinco.WATS.Converter.Listen.SoundCheckConverter",
+    "displayName": "Listen SoundCheck Converter",
+    "description": "Converts Listen SoundCheck audio test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.txt",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\ListenincConverters",
+    "postProcessAction": "Archive",
+    "productGuid": "a5b74856-6a80-d762-397b-e9b03b73b6d9"
+}
